@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="before">Trước</string>
+    <string name="today">Hôm nay</string>
+    <string name="finish_task">Đã hoàn thành</string>
+    <string name="future">Tương lai</string>
+    <string name="time">Thời gian</string>
+    <string name="no">Không</string>
+    <string name="pick_date">Chọn ngày</string>
+    <string name="done">XONG</string>
+    <string name="cancel">HỦY</string>
+    <string name="save">LƯU</string>
+    <string name="hint_add_task">Nhập nhiệm vụ mới tại đây</string>
+    <string name="hint_add_tag_for_task">Chọn loại nhiệm vụ</string>
+    <string name="create_new_Tag">Tạo danh mục mới</string>
+    <string name="enter_here">Nhập tại đây</string>
+    <string name="choose">CHỌN</string>
+    <string name="deadline">Ngày đến hạn</string>
+    <string name="change_tag_name">Thay đổi tên danh mục</string>
+</resources>

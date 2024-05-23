@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TodoList" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+
+    <style name="CalenderViewCustom" parent="android:Widget.CalendarView">
+        <item name="android:focusedMonthDateColor">@color/black</item>
+        <item name="android:colorPrimary">@color/white</item>
+        <item name="android:colorAccent">@color/lightBlue</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
